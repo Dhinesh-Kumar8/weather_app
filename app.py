@@ -8,7 +8,7 @@ root =Tk()
 root.geometry("450x450") #size of the window by default
 root.resizable(0,0) #to make the window size fixed
 #title of our window
-root.title("Weather App - AskPython.com")
+root.title("Weather App")
 
 city_value = StringVar()
 
